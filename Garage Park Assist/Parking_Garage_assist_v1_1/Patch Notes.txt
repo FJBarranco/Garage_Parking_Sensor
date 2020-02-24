@@ -1,0 +1,2 @@
+*Added faulty Sensor alarm
+An alarm will sound at a medium tone indicating that the ultrasonic sensor is not working.
